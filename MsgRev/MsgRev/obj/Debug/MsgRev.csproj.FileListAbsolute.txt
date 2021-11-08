@@ -1,0 +1,13 @@
+D:\Study\ProgramStudy\C#Study\MsgRev\MsgRev\bin\Debug\MsgRev.exe.config
+D:\Study\ProgramStudy\C#Study\MsgRev\MsgRev\bin\Debug\MsgRev.exe
+D:\Study\ProgramStudy\C#Study\MsgRev\MsgRev\bin\Debug\MsgRev.pdb
+D:\Study\ProgramStudy\C#Study\MsgRev\MsgRev\bin\Debug\SunnyUI.Common.dll
+D:\Study\ProgramStudy\C#Study\MsgRev\MsgRev\bin\Debug\SunnyUI.dll
+D:\Study\ProgramStudy\C#Study\MsgRev\MsgRev\obj\Debug\MsgRev.csprojAssemblyReference.cache
+D:\Study\ProgramStudy\C#Study\MsgRev\MsgRev\obj\Debug\MsgRev.MsgRev.resources
+D:\Study\ProgramStudy\C#Study\MsgRev\MsgRev\obj\Debug\MsgRev.Properties.Resources.resources
+D:\Study\ProgramStudy\C#Study\MsgRev\MsgRev\obj\Debug\MsgRev.csproj.GenerateResource.cache
+D:\Study\ProgramStudy\C#Study\MsgRev\MsgRev\obj\Debug\MsgRev.csproj.CoreCompileInputs.cache
+D:\Study\ProgramStudy\C#Study\MsgRev\MsgRev\obj\Debug\MsgRev.csproj.CopyComplete
+D:\Study\ProgramStudy\C#Study\MsgRev\MsgRev\obj\Debug\MsgRev.exe
+D:\Study\ProgramStudy\C#Study\MsgRev\MsgRev\obj\Debug\MsgRev.pdb

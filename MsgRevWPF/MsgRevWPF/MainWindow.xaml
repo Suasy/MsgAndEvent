@@ -1,0 +1,14 @@
+﻿<Window x:Name="MsgRevWPF" x:Class="MsgRevWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MsgRevWPF"
+        mc:Ignorable="d"
+        Title="MsgRevWPF" Height="450" Width="495" AutomationProperties.Name="MsgRevWPF" Loaded="MsgRevWPF_Loaded">
+    <Grid HorizontalAlignment="Right" Width="487">
+        <Button Content="Clear" HorizontalAlignment="Left" Margin="344,352,0,0" VerticalAlignment="Top" Width="75" AutomationProperties.Name="btnClr" Click="btnClr_Click"/>
+        <TextBox x:Name="tbxRev" HorizontalAlignment="Right" Height="258" Margin="0,55,68,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="350" AutomationProperties.Name="tbxRev"/>
+
+    </Grid>
+</Window>

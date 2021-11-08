@@ -1,0 +1,13 @@
+D:\Study\ProgramStudy\C#Study\MsgEvent\MsgEvent\bin\Debug\MsgEvent.exe.config
+D:\Study\ProgramStudy\C#Study\MsgEvent\MsgEvent\bin\Debug\MsgEvent.exe
+D:\Study\ProgramStudy\C#Study\MsgEvent\MsgEvent\bin\Debug\MsgEvent.pdb
+D:\Study\ProgramStudy\C#Study\MsgEvent\MsgEvent\bin\Debug\SunnyUI.Common.dll
+D:\Study\ProgramStudy\C#Study\MsgEvent\MsgEvent\bin\Debug\SunnyUI.dll
+D:\Study\ProgramStudy\C#Study\MsgEvent\MsgEvent\obj\Debug\MsgEvent.csprojAssemblyReference.cache
+D:\Study\ProgramStudy\C#Study\MsgEvent\MsgEvent\obj\Debug\MsgEvent.Properties.Resources.resources
+D:\Study\ProgramStudy\C#Study\MsgEvent\MsgEvent\obj\Debug\MsgEvent.csproj.GenerateResource.cache
+D:\Study\ProgramStudy\C#Study\MsgEvent\MsgEvent\obj\Debug\MsgEvent.csproj.CoreCompileInputs.cache
+D:\Study\ProgramStudy\C#Study\MsgEvent\MsgEvent\obj\Debug\MsgEvent.csproj.CopyComplete
+D:\Study\ProgramStudy\C#Study\MsgEvent\MsgEvent\obj\Debug\MsgEvent.exe
+D:\Study\ProgramStudy\C#Study\MsgEvent\MsgEvent\obj\Debug\MsgEvent.pdb
+D:\Study\ProgramStudy\C#Study\MsgEvent\MsgEvent\obj\Debug\MsgEvent.MsgEvent.resources

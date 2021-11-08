@@ -1,0 +1,15 @@
+D:\Study\ProgramStudy\C#Study\MsgEventWPF\MsgEventWPF\bin\Debug\MsgEventWPF.exe.config
+D:\Study\ProgramStudy\C#Study\MsgEventWPF\MsgEventWPF\bin\Debug\MsgEventWPF.exe
+D:\Study\ProgramStudy\C#Study\MsgEventWPF\MsgEventWPF\bin\Debug\MsgEventWPF.pdb
+D:\Study\ProgramStudy\C#Study\MsgEventWPF\MsgEventWPF\obj\Debug\MsgEventWPF.csprojAssemblyReference.cache
+D:\Study\ProgramStudy\C#Study\MsgEventWPF\MsgEventWPF\obj\Debug\MainWindow.g.cs
+D:\Study\ProgramStudy\C#Study\MsgEventWPF\MsgEventWPF\obj\Debug\App.g.cs
+D:\Study\ProgramStudy\C#Study\MsgEventWPF\MsgEventWPF\obj\Debug\MsgEventWPF_MarkupCompile.cache
+D:\Study\ProgramStudy\C#Study\MsgEventWPF\MsgEventWPF\obj\Debug\MsgEventWPF_MarkupCompile.lref
+D:\Study\ProgramStudy\C#Study\MsgEventWPF\MsgEventWPF\obj\Debug\MainWindow.baml
+D:\Study\ProgramStudy\C#Study\MsgEventWPF\MsgEventWPF\obj\Debug\MsgEventWPF.g.resources
+D:\Study\ProgramStudy\C#Study\MsgEventWPF\MsgEventWPF\obj\Debug\MsgEventWPF.Properties.Resources.resources
+D:\Study\ProgramStudy\C#Study\MsgEventWPF\MsgEventWPF\obj\Debug\MsgEventWPF.csproj.GenerateResource.cache
+D:\Study\ProgramStudy\C#Study\MsgEventWPF\MsgEventWPF\obj\Debug\MsgEventWPF.csproj.CoreCompileInputs.cache
+D:\Study\ProgramStudy\C#Study\MsgEventWPF\MsgEventWPF\obj\Debug\MsgEventWPF.exe
+D:\Study\ProgramStudy\C#Study\MsgEventWPF\MsgEventWPF\obj\Debug\MsgEventWPF.pdb

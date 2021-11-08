@@ -1,0 +1,15 @@
+﻿<Window x:Name="MsgEventWPF" x:Class="MsgEventWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MsgEventWPF"
+        mc:Ignorable="d"
+        Title="MsgEventWPF" Height="450" Width="495" AutomationProperties.Name="MsgEventWPF">
+    <Grid HorizontalAlignment="Right" Width="487">
+        <Button Content="Send" HorizontalAlignment="Left" Margin="343,352,0,0" VerticalAlignment="Top" Width="75" AutomationProperties.Name="btnSend" Click="btnSend_Click"/>
+        <Button Content="Event" HorizontalAlignment="Left" Margin="68,352,0,0" VerticalAlignment="Top" Width="75" AutomationProperties.Name="btnEvent" Click="btnEvent_Click"/>
+        <TextBox x:Name="tbxSend" HorizontalAlignment="Left" Height="258" Margin="68,55,68,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="350" AutomationProperties.Name="tbxSend"/>
+
+    </Grid>
+</Window>

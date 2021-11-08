@@ -1,0 +1,15 @@
+D:\Study\ProgramStudy\C#Study\MsgRevWPF\MsgRevWPF\obj\Debug\MsgRevWPF.csprojAssemblyReference.cache
+D:\Study\ProgramStudy\C#Study\MsgRevWPF\MsgRevWPF\obj\Debug\MainWindow.g.cs
+D:\Study\ProgramStudy\C#Study\MsgRevWPF\MsgRevWPF\obj\Debug\App.g.cs
+D:\Study\ProgramStudy\C#Study\MsgRevWPF\MsgRevWPF\obj\Debug\MsgRevWPF_MarkupCompile.cache
+D:\Study\ProgramStudy\C#Study\MsgRevWPF\MsgRevWPF\obj\Debug\MsgRevWPF_MarkupCompile.lref
+D:\Study\ProgramStudy\C#Study\MsgRevWPF\MsgRevWPF\bin\Debug\MsgRevWPF.exe.config
+D:\Study\ProgramStudy\C#Study\MsgRevWPF\MsgRevWPF\bin\Debug\MsgRevWPF.exe
+D:\Study\ProgramStudy\C#Study\MsgRevWPF\MsgRevWPF\bin\Debug\MsgRevWPF.pdb
+D:\Study\ProgramStudy\C#Study\MsgRevWPF\MsgRevWPF\obj\Debug\MainWindow.baml
+D:\Study\ProgramStudy\C#Study\MsgRevWPF\MsgRevWPF\obj\Debug\MsgRevWPF.g.resources
+D:\Study\ProgramStudy\C#Study\MsgRevWPF\MsgRevWPF\obj\Debug\MsgRevWPF.Properties.Resources.resources
+D:\Study\ProgramStudy\C#Study\MsgRevWPF\MsgRevWPF\obj\Debug\MsgRevWPF.csproj.GenerateResource.cache
+D:\Study\ProgramStudy\C#Study\MsgRevWPF\MsgRevWPF\obj\Debug\MsgRevWPF.csproj.CoreCompileInputs.cache
+D:\Study\ProgramStudy\C#Study\MsgRevWPF\MsgRevWPF\obj\Debug\MsgRevWPF.exe
+D:\Study\ProgramStudy\C#Study\MsgRevWPF\MsgRevWPF\obj\Debug\MsgRevWPF.pdb
